@@ -4,8 +4,7 @@
 // @version      0.1
 // @description  change ur name on fortnite whenever you want
 // @author       memcorrupt
-// @match        https://www.epicgames.com/account/personal
-// @updateURL https://liquidram.tech/footnut.user.js
+// @match        https://www.epicgames.com/*
 // @grant        none
 // @run-at document-end
 // ==/UserScript==
